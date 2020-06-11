@@ -6,11 +6,11 @@
 #  url: "/getting-started/"
 #  side: left
 
-- title: "About us"
+- title: #"About us"
   url: #"/design/"
   side: left
   dropdown:
-  - title: "Pending"
+  - title: #"Pending"
     url: #"/design/grid/"
 #  - title: "Typography"
 #    url: "/design/typography/typography/"
