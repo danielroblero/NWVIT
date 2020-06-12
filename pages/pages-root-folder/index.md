@@ -12,4 +12,4 @@ callforaction:
   url: https://www.meetup.com/Veterans-in-Technology/
   text: See our Meetup Page ›
   style: alert
-permalink: /index.html
+#permalink: /index.html
